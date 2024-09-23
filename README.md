@@ -9,7 +9,6 @@ Welcome to my **Complete C++ Programming** repository! This repository contains 
 
 ## 📂 Project Structure
 
-\`\`\`bash
 📁 src/
    ┣ 📜 basic_syntax.cpp
    ┣ 📜 data_structures.cpp
@@ -18,7 +17,6 @@ Welcome to my **Complete C++ Programming** repository! This repository contains 
 📂 docs/
    ┣ 📜 tutorial.md
    ┗ 📜 reference.md
-\`\`\`
 
 ## 📚 C++ Topics (Beginner to Advanced)
 
@@ -78,13 +76,6 @@ We welcome contributions! Feel free to fork the repository, create a new branch,
 3. Commit your changes (\`git commit -m "Add feature"\`).
 4. Push to the branch (\`git push origin feature-branch\`).
 5. Open a pull request.
-
-## 📊 Stats
-
-![Profile views](https://gpvc.arturio.dev/khaledhasanmilu)
-![GitHub Repo stats](https://github-readme-stats.vercel.app/api?khaledhasanmilu=khaledhasanmilu&show_icons=true)
-
----
 
 ### Connect with me:
 
