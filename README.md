@@ -12,7 +12,6 @@ Welcome to my **Complete C++ Programming** repository! This repository contains 
 [stars-url]: https://github.com/khaledhasanmilu/Complete-CPP-Programming/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/khaledhasanmilu
-![GitHub contributors](https://img.shields.io/github/contributors/khaledhasanmilu/Complete-CPP-Programming)
 
 ## 📂 Project Structure
 
