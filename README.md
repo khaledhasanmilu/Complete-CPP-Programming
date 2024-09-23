@@ -52,7 +52,7 @@ Welcome to my **Complete C++ Programming** repository! This repository contains 
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/khaledhasanmilu/Complete-CPP-Programming.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
