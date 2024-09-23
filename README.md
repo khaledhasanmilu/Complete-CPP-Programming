@@ -9,14 +9,14 @@ Welcome to my **Complete C++ Programming** repository! This repository contains 
 
 ## 📂 Project Structure
 
-📁 src/
-   ┣ 📜 basic_syntax.cpp
-   ┣ 📜 data_structures.cpp
-   ┣ 📜 algorithms.cpp
-   ┗ 📜 oop_concepts.cpp
-📂 docs/
-   ┣ 📜 tutorial.md
-   ┗ 📜 reference.md
+  - **📁 src/**
+  - ┣ 📜 basic_syntax.cpp
+  - ┣ 📜 data_structures.cpp
+  - ┣ 📜 algorithms.cpp
+  - ┗ 📜 oop_concepts.cpp
+- **📂 docs/**
+  - ┣ 📜 tutorial.md
+  - ┗ 📜 reference.md
 
 ## 📚 C++ Topics (Beginner to Advanced)
 
