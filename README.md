@@ -1,10 +1,16 @@
 # 🚀 C++ Programming Repository
 
 Welcome to my **Complete C++ Programming** repository! This repository contains a comprehensive collection of C++ programs, from basic syntax to advanced concepts.
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GitHub Repo stars](https://img.shields.io/github/stars/khaledhasanmilu/your-repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/khaledhasanmilu/Complete-CPP-Programming?style=social)
+[forks-shield]: https://img.shields.io/github/forks/khaledhasanmilu/Complete-CPP-Programming.svg?style=for-the-badge
+[forks-url]: https://github.com/khaledhasanmilu/Complete-CPP-Programming/network/members
+[stars-shield]: https://img.shields.io/github/stars/khaledhasanmilu/Complete-CPP-Programming.svg?style=for-the-badge
+[stars-url]: https://github.com/khaledhasanmilu/Complete-CPP-Programming/stargazers
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/khaledhasanmilu
 ![GitHub contributors](https://img.shields.io/github/contributors/khaledhasanmilu/Complete-CPP-Programming)
 
 ## 📂 Project Structure
