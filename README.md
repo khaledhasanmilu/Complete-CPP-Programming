@@ -1,11 +1,11 @@
-echo '# 🚀 C++ Programming Repository
+# 🚀 C++ Programming Repository
 
 Welcome to my **Complete C++ Programming** repository! This repository contains a comprehensive collection of C++ programs, from basic syntax to advanced concepts.
 
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo-name)
+![GitHub forks](https://img.shields.io/github/forks/khaledhasanmilu/Complete-CPP-Programming?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/khaledhasanmilu/Complete-CPP-Programming)
 
 ## 📂 Project Structure
 
@@ -81,13 +81,13 @@ We welcome contributions! Feel free to fork the repository, create a new branch,
 
 ## 📊 Stats
 
-![Profile views](https://gpvc.arturio.dev/your-username)
-![GitHub Repo stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/khaledhasanmilu)
+![GitHub Repo stats](https://github-readme-stats.vercel.app/api?khaledhasanmilu=khaledhasanmilu&show_icons=true)
 
 ---
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/khaledhasanmilu/)
 
-Happy coding! 😊' > README.md
+Happy coding! 😊' 
