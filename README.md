@@ -79,6 +79,6 @@ We welcome contributions! Feel free to fork the repository, create a new branch,
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/khaledhasanmilu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledhasanmilu)
 
 Happy coding! 😊' 
