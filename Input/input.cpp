@@ -6,7 +6,7 @@ int main()
     int n;
     cout << "Enter any number: ";
     cin >> n;
-    cout << "You entered: " << n << endl;
+    cout << "You entered: " << n << endl;;
 
     return 0;
 }
