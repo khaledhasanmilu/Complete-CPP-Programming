@@ -3,17 +3,17 @@
 Welcome to my **Complete C++ Programming** repository! This repository contains a comprehensive collection of C++ programs, from basic syntax to advanced concepts.
 
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/khaledhasanmilu/your-repo-name?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/khaledhasanmilu/Complete-CPP-Programming?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/khaledhasanmilu/Complete-CPP-Programming)
 
 ## 📂 Project Structure
 
   - **📁 src/**
-  - ┣ 📜 basic_syntax.cpp
-  - ┣ 📜 data_structures.cpp
-  - ┣ 📜 algorithms.cpp
-  - ┗ 📜 oop_concepts.cpp
+   - ┣ 📜 basic_syntax.cpp
+   - ┣ 📜 data_structures.cpp
+   - ┣ 📜 algorithms.cpp
+   - ┗ 📜 oop_concepts.cpp
 - **📂 docs/**
   - ┣ 📜 tutorial.md
   - ┗ 📜 reference.md
