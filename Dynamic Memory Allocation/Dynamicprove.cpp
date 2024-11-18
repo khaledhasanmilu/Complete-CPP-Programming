@@ -14,3 +14,6 @@ int main()
    cout<<"Main Function: "<<*p<<endl;
  return 0;
 }
+//if you run it any online compiler
+//you see 10 and 0;
+//for avoid you use dynamic memory
