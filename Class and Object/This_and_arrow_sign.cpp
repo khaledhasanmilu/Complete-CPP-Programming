@@ -11,7 +11,7 @@ public:
        this->roll = r;
         this->clas = c;
         this->gpa = g;
-    }
+    } 
 };
 int main()
 {
