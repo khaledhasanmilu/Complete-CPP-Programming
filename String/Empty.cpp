@@ -3,8 +3,8 @@ using namespace std;
 int main()
 {
    string s = "hello world";
-   //s.clear();
-   if (s.empty()==true)
+   s.clear();  
+   if (s.empty()==true) //s.size()==0 -- true return
    {
     cout<<"Empty"<<endl;
    }
