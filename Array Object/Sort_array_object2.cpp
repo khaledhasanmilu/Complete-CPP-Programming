@@ -8,7 +8,18 @@ public:
     int roll;
     int marks;
 };
+bool cmp(Student l,Student r){
+// if (l.marks>r.marks) //max wise sort
+// {
+//     return true;
+// }
+// else
+// {
+//     return false;
+// }
+return l.marks>r.marks;
 
+}
 int main()
 {
     int n;
@@ -19,21 +30,12 @@ int main()
     {
         cin >> arr[i].name >> arr[i].roll >> arr[i].marks;
     }
-    Student Min;
-    Min.marks = INT_MAX;
-    //Min.marks = INT_MIN;   --for  max
-
-
+    //for sort -- custom compare nedded
+    sort(arr,arr+n,cmp);
     for (int i = 0; i < n; i++)
     {
-           if (arr[i].marks<Min.marks)
-           //if (arr[i].marks<Min.marks) ----for maxx
-           {
-            Min = arr[i];
-           }
-           
+        cout<<arr[i].name<<" "<<arr[i].roll<<" "<<arr[i].marks<<endl;
     }
-    cout<<Min.name<<" "<<Min.roll<<" "<<Min.marks<<endl;
-
+    
     return 0;
 }
